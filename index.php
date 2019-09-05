@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html><!--comment-->
 
 <head>
 	<title>Web Blog</title>
